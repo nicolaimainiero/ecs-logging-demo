@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: ecs-logging-demo
+logging:
+  config: "classpath:log4j2.xml"
